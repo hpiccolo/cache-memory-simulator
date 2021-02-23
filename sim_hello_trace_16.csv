@@ -1,0 +1,62 @@
+,Nivel,Linhas,Vias,bitsOffset,bitsSet,BytesBloco,Bytes por linha,KBytes total,Politicasub
+0,LI,1,16,11,0,2048,32768,32.768,LRU
+1,L1,1,32,10,0,1024,32768,32.768,LRU
+
+ Memoria total ,65.536
+ Total de acessos ,263951
+ Hits ,263065
+ Mises ,886
+ Percentual de acerto,99.66,% 
+ Escritas em WB ,98 
+ Escritas em WT ,12815
+ Acessos leitura ,46311
+ Hits leitura ,45698
+ Miss leitura ,613
+ Percentual de acerto leitura ,98.68,%
+ Acessos escrita ,12815
+ Hits escrita ,12740
+ Miss escrita ,75
+ Percentual de acerto escrita ,99.41,%
+                 CacheLI
+ Total de acessos,204825
+ Hits ,204627
+ Mises ,198
+ Percentual de acerto,99.9,% 
+ Escritas em WB ,0 
+ Escritas em WT ,0
+ Acessos leitura ,0
+ Hits leitura ,0
+ Miss leitura ,0
+ Percentual de acerto leitura ,0,%
+ Acessos escrita ,0
+ Hits escrita ,0
+ Miss escrita ,0
+ Percentual de acerto escrita ,0,%
+                 CacheL1
+ Total de acessos,59126
+ Hits ,58438
+ Mises ,688
+ Percentual de acerto,98.84,% 
+ Escritas em WB ,98 
+ Escritas em WT ,12815
+ Acessos leitura ,46311
+ Hits leitura ,45698
+ Miss leitura ,613
+ Percentual de acerto leitura ,98.68,%
+ Acessos escrita ,12815
+ Hits escrita ,12740
+ Miss escrita ,75
+ Percentual de acerto escrita ,99.41,%
+    Acessos por Set cacheLI
+,Acessos por Set,hits por Set,miss por Set,% hit por set
+0,204825,204627,198,99.9
+,Acessos por Set Leitura,hits por Set Leitura,miss por Set Leitura,% hit por set
+,Acessos por Set Escrita,hits por Set Escrita,miss por Set Escrita,% hit por set
+
+    Acessos por Set cacheL1
+,Acessos por Set,hits por Set,miss por Set,% hit por set
+0,59126,58438,688,98.84
+,Acessos por Set Leitura,hits por Set Leitura,miss por Set Leitura,% hit por set
+0,46311,45698,613,98.68
+,Acessos por Set Escrita,hits por Set Escrita,miss por Set Escrita,% hit por set
+0,12815,12740,75,99.41
